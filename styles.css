@@ -56,9 +56,9 @@ h1, h2, h3, h4, p {
     margin: 20px auto;
     max-width: 400px;
     height: 400px;
-    border: 6px solid white;
-    border-radius: 10px;
-    background-image: url("images/gift-cover.jpg");
+    border: 6px solid #3A191F;
+    border-radius: 180px;
+    background-image: url("images/fruit-gift.png");
     background-size: cover;
 }
 
